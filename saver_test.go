@@ -16,7 +16,7 @@ import (
 )
 
 func TestSaver(t *testing.T) {
-	addr := "hz01-spider-coverage4.hz01.baidu.com:6379"
+	addr := "10.210.84.15:6379"
 	linkdb, pagedb := 3, 4
 	passwd := "lishuo"
 

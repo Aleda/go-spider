@@ -49,7 +49,7 @@ const (
 	DefaultNormalizationFlags purell.NormalizationFlags = purell.FlagsAllGreedy
 	DefaultLogLevel           LogFlags                  = LogInfo
 	DefaultMaxVisits          int                       = 0
-	DefaultRedisDBAddr        string                    = "hz01-spider-coverage4.hz01.baidu.com:6379"
+	DefaultRedisDBAddr        string                    = "10.210.84.15:6379"
 	DefaultRedisPasswd        string                    = "lishuo"
 	DefaultLinkID             int                       = 3
 	DefaultPageID             int                       = 4
